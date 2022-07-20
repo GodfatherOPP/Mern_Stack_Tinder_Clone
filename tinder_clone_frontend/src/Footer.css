@@ -1,0 +1,27 @@
+.Footer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  position: fixed;
+  bottom: 5vh;
+}
+.Footer .MuiIconButton-root {
+  padding: 3vh !important;
+  background-color: white;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+.Footer__Icon__repeat {
+  color: #f5b748 !important;
+}
+.Footer__Icon__left {
+  color: #ec5e6f !important;
+}
+.Footer__Icon__star {
+  color: #62b4f9 !important;
+}
+.Footer__Icon__right {
+  color: #f5b748 !important;
+}
+.Footer__Icon__flash {
+  color: #915dd1 !important;
+}

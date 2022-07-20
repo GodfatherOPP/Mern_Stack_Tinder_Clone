@@ -1,0 +1,15 @@
+.Header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  z-index: 100;
+  border: 1px solid #f9f9ff;
+}
+.Header__Logo {
+  object-fit: contain;
+  height: 50px;
+}
+.HeaderIcon {
+  font-size: 30px !important;
+}
